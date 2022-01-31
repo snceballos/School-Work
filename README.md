@@ -1,2 +1,2 @@
 # School Work
- different school projects i've created during my school year
+Here are the projects I have created during my college degree at FIU as a BA in Computer Science.
